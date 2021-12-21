@@ -1,5 +1,14 @@
 #!/usr/bin/python3
 
+'''
+Author: Leonardo Souza
+
+Tarefa da Matéria de Sistemas Concorrentes e Distribuídos do CEFET-RJ
+Professor: Glauco Fiorott Amorim
+Trabalho de Programação Multithreading
+
+Implementação básica de um client para o Servidor Multithreading. 
+'''
 import socket
 
 
